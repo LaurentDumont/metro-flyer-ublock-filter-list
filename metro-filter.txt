@@ -1,1 +1,2 @@
-https://metrocommonapi.file.core.windows.net/medialibrary/*
+https://metrocommonapi.file.core.windows.net/medialibrary/metro-quebec/80247/*.mp4
+https://metrocommonapi.file.core.windows.net/medialibrary/metro-quebec/themes/moi.mp4
